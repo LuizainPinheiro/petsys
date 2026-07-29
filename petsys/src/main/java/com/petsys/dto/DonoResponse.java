@@ -16,7 +16,6 @@ public class DonoResponse {
     private Long id;
     private String nome;
     private String telefone;
-
     private List<String> pets;
 
 }
